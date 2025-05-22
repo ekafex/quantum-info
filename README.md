@@ -1,2 +1,3 @@
-# quantum-info
+# Quantum information
+
 Quantum Information and Quantum Computing
